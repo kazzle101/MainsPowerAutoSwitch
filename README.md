@@ -15,4 +15,4 @@ Note that I have used the Sparkfun ACS723 (5A) Current Sense module rather than 
 
 ### YouTube video
 Describing the operation of the device
-[![Automatically Power Your Shop Vacuum](https://www.youtube.com/embed/bf6Q4yfRd6U/0.jpg)](https://www.youtube.com/embed/bf6Q4yfRd6U "Automatically Power Your Shop Vacuum")
+![Automatically Power Your Shop Vacuum](https://www.youtube.com/embed/bf6Q4yfRd6U "Automatically Power Your Shop Vacuum")
