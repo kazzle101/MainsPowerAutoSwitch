@@ -1,0 +1,31 @@
+
+https://www.arduino.cc/en/Guide/ArduinoMini
+https://www.arduino.cc/en/uploads/Main/Arduino-Pro-Mini-schematic.pdf
+
+Ardunio Mini R5 pins used
+
+
+        o TX            9V o
+        o RX           GND o
+        o RST          RST o
+        o GND           5V o
+        o 2             A3 o
+        o 3             A2 o
+        o 4             A1 o
+        o 5             A0 o
+        o 6             13 o
+        o 7             12 o
+        o 8             11 o
+        o 9 o o     o o 10 o     >>>  o   o   o     o   o   o
+                                      9  A4  A5     5V  GND 10
+                                        SDA  SCL
+
+FTDI Basic Connector:
+
+    5V - Power from USB
+    GND
+    RX > TX
+    TX > RX
+    DTR > Reset (via 0.1uF capacitor)
+
+
