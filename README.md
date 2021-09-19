@@ -15,4 +15,4 @@ Note that I have used the Sparkfun ACS723 (5A) Current Sense module rather than 
 
 ### YouTube video
 Describing the operation of the device
-https://www.youtube.com/watch?v=bf6Q4yfRd6U
+<iframe width="796" height="448" src="https://www.youtube.com/embed/bf6Q4yfRd6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
