@@ -14,5 +14,5 @@ This has been written in the Visual Studio Code IDE with the PlatformIO extensio
 Note that I have used the Sparkfun ACS723 (5A) Current Sense module rather than the ACS712 shown in the diagram.
 
 ### YouTube video
-Describing the operation of the device
-![Automatically Power Your Shop Vacuum](https://www.youtube.com/embed/bf6Q4yfRd6U "Automatically Power Your Shop Vacuum")
+Describing the operation of the device https://www.youtube.com/watch?v=bf6Q4yfRd6U
+
