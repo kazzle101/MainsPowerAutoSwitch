@@ -11,4 +11,8 @@ This has been written in the Visual Studio Code IDE with the PlatformIO extensio
 
 ### Microcontroller Connections:
 <img src="https://github.com/kazzle101/MainsPowerAutoSwitch/blob/main/microcontroller%20connections.png?raw=true" width="700" alt="Microcontroller connections">
-Note that I have used the Sparkun ACS723 (5A) Current Sense module  rather than the ACS712 shown in the diagram.
+Note that I have used the Sparkfun ACS723 (5A) Current Sense module rather than the ACS712 shown in the diagram.
+
+### YouTube video
+Describing the operation of the device
+https://www.youtube.com/watch?v=bf6Q4yfRd6U
